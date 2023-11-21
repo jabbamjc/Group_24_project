@@ -1,0 +1,49 @@
+{
+    "quizName" : "test",
+    "startSeconds" : 5,
+    "questions" : [
+        {
+            "question" : "Press the number 1",
+            "answers" : [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct" : "1"
+        },
+
+        {
+            "question" : "Press the number 2",
+            "answers" : [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct" : "2"
+        },
+
+        {
+            "question" : "Press the number 3",
+            "answers" : [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct" : "3"
+        },
+
+        {
+            "question" : "Press the number 4",
+            "answers" : [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct" : "4"
+        }
+    ]
+}
